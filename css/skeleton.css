@@ -504,14 +504,6 @@ p.info-section__sub,
   font-size: 1.4rem;
 }
 
-footer{
-  display: flex;
-  height: 100px;
-  text-align: center;
-  align-items: flex-end;
-  justify-content: center;
-}
-
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
