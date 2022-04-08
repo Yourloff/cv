@@ -460,16 +460,6 @@ p.info-section__sub,
   border-radius: 100%;
  }
 
- span.title__first-word{
-  font-weight: 100;
- }
-
- span.title__second-word{
-   display: inherit;
-   color: #F8BB10;
-   font-weight: bold;
-   text-transform: uppercase;
- }
  p.info-section__sub{
    color: #939393;
  }
@@ -527,9 +517,6 @@ p.info-section__sub,
   .info-section{
     display: flex;
     justify-content: center;
-  }
-  span.title__second-word{
-    display: inline;
   }
   .info-section{
     margin: 0;
