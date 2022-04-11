@@ -406,6 +406,10 @@ there.
 */
 
 /*Custom*/
+body{
+  margin-bottom: 50px;
+}
+
 p.info-section__sub,
 .info-section__contact,
 .section__skills{
